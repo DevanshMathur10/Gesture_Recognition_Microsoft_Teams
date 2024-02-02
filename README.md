@@ -1,0 +1,2 @@
+# Gesture_Recognition_Microsoft_Teams
+ The main objectives of this project include: - Develop a real-time gesture recognition system using Python, OpenCV, and MediaPipe. - Implement a hybrid deep learning model that combines Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) for accurate and dynamic gesture recognition. - Integrate the gesture recognition system with the Microsoft Teams API to control meeting functionalities such as mute/unmute, start/stop video, and navigate through presentation slides.
